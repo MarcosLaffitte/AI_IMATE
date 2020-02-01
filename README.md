@@ -5,8 +5,8 @@ Proyectos para el Curso Avanzado en Inteligencia Artificial en el Análisis Supe
 - Profesor: Dr. Esteban Abelardo Hernández Vargas
 - IMATE, Unidad Juriquilla
 
-Especificaciones
-1.
-2.
-3.
+Información
+1. Proyecto A
+2. Proyecto B
+3. Proyecto C
 Final
