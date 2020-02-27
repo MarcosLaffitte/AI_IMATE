@@ -12,7 +12,7 @@
 #                                                                                                  #
 # - Course on Artificial Inteligence                                                               #
 #                                                                                                  #
-# - Prof: Esteba Hernandez Vargas, PhD                                                             #
+# - Prof: Esteban Hernandez Vargas, PhD                                                             #
 #                                                                                                  #
 # - Description: predict price of houses in data set, using a number of variables determined       #
 #                by the abs value for pearson correlation coef give by the user (default 0.7).     #
