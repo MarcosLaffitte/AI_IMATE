@@ -6,7 +6,7 @@ Proyectos para el Curso Avanzado de Inteligencia Artificial en el Análisis Supe
 - IMATE, Unidad Juriquilla
 
 Información
-1. Proyecto 1: Boston House Dataset Analysis
+1. Proyecto 1: Boston House Analysis
 2. Proyecto B
 3. Proyecto C
 4. Proyecto Final
