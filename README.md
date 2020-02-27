@@ -11,4 +11,4 @@ Información
 3. Proyecto C
 4. Proyecto Final
 
-* Todo proyecto incluye el código en crudo y una versión para Jupyter
+*** Todo proyecto incluye el código en crudo y una versión para Jupyter
