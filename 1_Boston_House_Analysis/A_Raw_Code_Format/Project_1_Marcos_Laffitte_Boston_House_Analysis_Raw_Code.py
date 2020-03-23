@@ -4,7 +4,7 @@
 #   https://github.com/MarcosLaffitte                                                              #
 #                                                                                                  #
 # - Proj1: Boston House Dataset Analysis                                                           #
-#   http://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html                                 #
+#   ref: http://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html                                 #
 #                                                                                                  #
 # - Masters in Mathematics                                                                         #
 #                                                                                                  #
