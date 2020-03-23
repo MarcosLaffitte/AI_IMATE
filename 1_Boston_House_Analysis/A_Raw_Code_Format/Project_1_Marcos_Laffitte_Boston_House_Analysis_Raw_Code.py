@@ -4,7 +4,7 @@
 #   https://github.com/MarcosLaffitte                                                              #
 #                                                                                                  #
 # - Proj1: Boston House Dataset Analysis                                                           #
-#   ref: http://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html                                 #
+#   dataset obtained from: http://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html          #
 #                                                                                                  #
 # - Masters in Mathematics                                                                         #
 #                                                                                                  #
@@ -12,7 +12,7 @@
 #                                                                                                  #
 # - Course on Artificial Inteligence                                                               #
 #                                                                                                  #
-# - Prof: Esteban Hernandez Vargas, PhD                                                             #
+# - Prof: Esteban Hernandez Vargas, PhD                                                            #
 #                                                                                                  #
 # - Description: predict price of houses in data set, using a number of variables determined       #
 #                by the abs value for pearson correlation coef give by the user (default 0.7).     #
