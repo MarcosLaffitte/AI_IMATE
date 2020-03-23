@@ -4,7 +4,7 @@
 #   https://github.com/MarcosLaffitte                                                              #
 #                                                                                                  #
 # - Proj2: Coronavirus Dynamics                                                                    #
-#   https://github.com/CSSEGISandData/COVID-19                                                     #
+#   dataset obtained from: https://github.com/CSSEGISandData/COVID-19                              #
 #   up to march 19 2020                                                                            #
 #                                                                                                  #
 # - Masters in Mathematics                                                                         #
@@ -13,7 +13,7 @@
 #                                                                                                  #
 # - Course on Artificial Inteligence                                                               #
 #                                                                                                  #
-# - Prof: Esteban Hernandez Vargas, PhD                                                             #
+# - Prof: Esteban Hernandez Vargas, PhD                                                            #
 #                                                                                                  #
 # - Description: determine and evaluate models of coronavirus confirmed cases growth, considering  #
 #                cummulative data as net population of confirmed cases (exponential growth).       #
