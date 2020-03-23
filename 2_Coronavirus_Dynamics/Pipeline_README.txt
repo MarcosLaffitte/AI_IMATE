@@ -1,8 +1,6 @@
 - By: @MarcosLaffitte                                                                            
   https://github.com/MarcosLaffitte
 - Proj2: Coronavirus Dynamics                                                                    
-  https://github.com/CSSEGISandData/COVID-19                                                     
-  up to march 19 2020
 - Masters in Mathematics                                                                         
 - UNAM-IMATE, Juriquilla, Qro, Mex                                                               
 - Course on Artificial Inteligence                                                               
@@ -32,6 +30,5 @@
 5. plot predictions
 
 > Dataset Ref
-
 https://github.com/CSSEGISandData/COVID-19
 up to march 19 2020
