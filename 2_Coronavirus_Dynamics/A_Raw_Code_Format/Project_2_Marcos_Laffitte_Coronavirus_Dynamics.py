@@ -37,6 +37,9 @@
 
 # dependencies info ################################################################################
 """
+> PDEparams
+  Home-page: https://github.com/cparrarojas/PDEparams
+  
 > scipy
   Version: 1.1.0
   Summary: SciPy: Scientific Library for Python
