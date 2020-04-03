@@ -13,6 +13,7 @@
    * 4nd degree polynomial                                                                        
    * 5nd degree polynomial                                                                        
    * exponential function                                                                         
+   * SIR
 
 - run (linux):      python3.5 thisScript.py                                                      
 
@@ -31,4 +32,4 @@
 
 > Dataset Ref
 https://github.com/CSSEGISandData/COVID-19
-up to march 19 2020
+up to april 02 2020
