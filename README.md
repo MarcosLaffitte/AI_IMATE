@@ -9,5 +9,3 @@ Información
 1. Proyecto 1: Boston House Analysis
 2. Proyecto 2: Coronavirus Dynamics
 3. Proyecto Final: Ajuste de polinomios, SVM, HIV data and Neural Networks.
-
-*** Todo proyecto incluye el código en crudo y una versión para Jupyter
